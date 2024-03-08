@@ -1,2 +1,2 @@
-open Parksquare.Discogs
 module disccrate.discogs
+open ParkSquare.Discogs
